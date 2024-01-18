@@ -1,6 +1,7 @@
 # FinTech-Project_1
 
 Note:
+
 June 17-18th:
 
 I spent all week researching and trying to figure out exactly what set of data would be worth while. So far, I came up with this.
