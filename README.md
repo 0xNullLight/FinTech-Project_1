@@ -5,8 +5,8 @@ June 17-18th:
 I spent all week researching and trying to figure out exactly what set of data would be worth while. So far, I came up with this.
 
 What have I done:
-1) Cleaned the data I obtained from (ref to *data_cleaning_horror_comedy.ipynb*)
-https://developer.imdb.com/non-commercial-datasets/
+1) Cleaned the data I obtained from (ref to *data_cleaning_horror_comedy.ipynb
+- https://developer.imdb.com/non-commercial-datasets/
 
 I used
 - title.basics.tsv.gz
