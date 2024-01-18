@@ -5,9 +5,10 @@ Note:
 June 17-18th:
 
 I spent all week researching and trying to figure out exactly what set of data would be worth while. So far, I came up with this.
+It was alot harder than I expected. I had to trash all the previous work I did just because I realize the dataset I originally got from kaggle is probably not what I was looking for. 
 
 What have I done:
-1) Cleaned the data I obtained from (ref to *data_cleaning_horror_comedy.ipynb
+1) Cleaned the data I obtained from (ref to *data_cleaning_horror_comedy.ipynb*)
 - https://developer.imdb.com/non-commercial-datasets/
 
 I used
