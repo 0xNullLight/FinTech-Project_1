@@ -10,3 +10,7 @@
 
 *  I was also able to save the Hvplot charts using the save button  that is provided on the side panel of the displayed image
 
+##Responsibility
+* I was responsible for finding and analyzing  the data for the 3 indices
+* Submitting the proposal into the read-me
+* Creating the slides with the hypothesis and the final answer
